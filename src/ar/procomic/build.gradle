@@ -3,5 +3,6 @@ ext {
     extClass = '.ProComic'
     extVersionCode = 1
     isNsfw = false
+    containsNsfw = false
 }
 apply from: "$rootDir/common.gradle"
